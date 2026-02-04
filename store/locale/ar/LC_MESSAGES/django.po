@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-09 23:04+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: .\store\models.py:19
+msgid "Category"
+msgstr "الفئة"
+
+#: .\store\models.py:20
+msgid "Categories"
+msgstr "الفئات"
+
+#: .\store\models.py:33 .\store\templates\product.html:50
+msgid "Author"
+msgstr "المؤلف"
+
+#: .\store\models.py:34
+msgid "Authors"
+msgstr "المؤلفون"
+
+#: .\store\models.py:54
+msgid "Product"
+msgstr "المنتج"
+
+#: .\store\models.py:55 .\store\templates\admin\store\order\change_form.html:45
+msgid "Products"
+msgstr "المنتجات"
+
+#: .\store\models.py:74 .\store\templates\emails\order.html:74
+msgid "Order"
+msgstr "الطلب"
+
+#: .\store\models.py:75
+msgid "Orders"
+msgstr "الطلبات"
+
+#: .\store\models.py:96
+msgid "Slider"
+msgstr "العارض"
+
+#: .\store\models.py:97
+msgid "Sliders"
+msgstr "العارضات"
+
+#: .\store\templates\admin\store\order\change_form.html:8
+#: .\store\templates\emails\order.html:60
+msgid "Customer"
+msgstr "العميل"
+
+#: .\store\templates\admin\store\order\change_form.html:16
+#: .\store\templates\checkout.html:41
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: .\store\templates\admin\store\order\change_form.html:24
+#: .\store\templates\checkout.html:48
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: .\store\templates\admin\store\order\change_form.html:32
+msgid "Amount"
+msgstr "المبلغ"
+
+#: .\store\templates\admin\store\order\change_form.html:40
+#: .\store\templates\emails\order.html:88
+msgid "Date"
+msgstr "التاريخ"
+
+#: .\store\templates\admin\store\order\change_form.html:49
+msgid "Name"
+msgstr "الاسم"
+
+#: .\store\templates\admin\store\order\change_form.html:50
+#: .\store\templates\cart.html:44 .\store\templates\emails\order.html:139
+msgid "Price"
+msgstr "السعر"
+
+#: .\store\templates\cart.html:30
+msgid "Your cart is empty"
+msgstr "سلة التسوق فارغة"
+
+#: .\store\templates\cart.html:48 .\store\templates\emails\order.html:178
+msgid "Total"
+msgstr "الإجمالي"
+
+#: .\store\templates\cart.html:55
+msgid "Processed to checkout"
+msgstr "الانتقال إلى الدفع"
+
+#: .\store\templates\category.html:16
+#: .\store\templates\partials\header_search.html:6
+msgid "All Categories"
+msgstr "كل الفئات"
+
+#: .\store\templates\category.html:35
+msgid "We were not able to find any book."
+msgstr "لم نتمكن من العثور على أي كتاب."
+
+#: .\store\templates\category.html:46 .\store\templates\category.html:50
+msgid "Previous"
+msgstr "السابق"
+
+#: .\store\templates\category.html:55 .\store\templates\category.html:59
+msgid "Next"
+msgstr "التالي"
+
+#: .\store\templates\checkout.html:11
+msgid "Amount to pay"
+msgstr "المبلغ المطلوب دفعه"
+
+#: .\store\templates\checkout.html:20
+msgid "Your information"
+msgstr "معلوماتك الشخصية"
+
+#: .\store\templates\checkout.html:29
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: .\store\templates\checkout.html:35
+msgid "Last Name"
+msgstr "اسم العائلة"
+
+#: .\store\templates\checkout.html:55
+msgid "Paypal"
+msgstr "باي بال"
+
+#: .\store\templates\checkout.html:65
+msgid "Credit Card"
+msgstr "بطاقة ائتمانية"
+
+#: .\store\templates\checkout.html:78
+msgid "Pay Now"
+msgstr "ادفع الآن"
+
+#: .\store\templates\common\product_card.html:8
+#: .\store\templates\product.html:29
+msgid "Add to cart"
+msgstr "أضف إلى السلة"
+
+#: .\store\templates\common\product_card.html:9
+msgid "View"
+msgstr "عرض"
+
+#: .\store\templates\emails\order.html:50
+#: .\store\templates\partials\header.html:5
+msgid "App Name"
+msgstr "اسم التطبيق"
+
+#: .\store\templates\emails\order.html:128
+msgid "Book"
+msgstr "كتاب"
+
+#: .\store\templates\partials\footer.html:5
+msgid "© 2025 Hsoub. All rights reserved."
+msgstr "© 2025 حسوب. جميع الحقوق محفوظة."
+
+#: .\store\templates\partials\header.html:15
+msgid "Cart"
+msgstr "السلة"
+
+#: .\store\templates\product.html:43
+msgid "Description"
+msgstr "الوصف"
+
+#: .\store\views.py:81
+msgid "The product has been added to your cart"
+msgstr "تمت إضافة المنتج إلى سلة التسوق"
+
+#: .\store\views.py:101
+msgid "The product has been removed from your cart"
+msgstr "تمت إزالة المنتج من سلة التسوق"
